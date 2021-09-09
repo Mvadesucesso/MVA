@@ -1,2 +1,2 @@
 # MVA
-Venda ser um empresário de sucesso
+Venha ser um empresário de sucesso
